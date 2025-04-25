@@ -21,4 +21,4 @@ Tableau Public
 - Filters: Category, Segment, Region
 
 ## Tableau Dashboard:
-🔗 [View Live Dashboard](<paste your Tableau Public link here>)
+🔗 [View Live Dashboard]((https://public.tableau.com/authoring/TASK4_17455926860630/Dashboard1#1))
